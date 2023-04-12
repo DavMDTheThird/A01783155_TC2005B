@@ -1,0 +1,26 @@
+/* Selectores */
+
+h1 {
+    /* Atributos */
+    color: rgb(171, 48, 48, 0.769);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* Valores */
+}
+
+h2 {
+    color: #065165;
+}
+
+#Second_h1 {
+    color: #262466;
+}
+
+.container {
+    border: 3px black solid;
+    margin: 3px;
+    padding: 2px;
+}
+
+body {
+    margin: 0;
+}
