@@ -1,0 +1,3699 @@
+fileFormatVersion: 2
+guid: 94be4becdbd62e146b8fe2af3c605f70
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b225bed364f4428604d998c5384c4
+      internalID: 718143115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b4706dd8fd2334f9f63ccd6a5eef8e
+      internalID: -1262354436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 287
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c6b09d650e0b742b247f0e4de25685
+      internalID: -320318179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c97c91495bb9e649a0ba4ff5d9f7da9
+      internalID: 1348160412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 288
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327a17ac9ba5bd746855d013593be7ba
+      internalID: -1557401995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 287
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9d9b2355bc8f647b527fd8fb967614
+      internalID: -1173593568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4d7c42f17b7a342bb53e3e0e062eec
+      internalID: -262800489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 288
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd1e8bad359552459f24a5b6cc53999
+      internalID: -916173487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82880e2c0f920640a9b6333f9f49081
+      internalID: -1009983359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 287
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c946fa233dcd9340a630906a8732b2d
+      internalID: -120527998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 288
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf00842b8f2c5204dad9669ea53a3ff8
+      internalID: 1413308132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 287
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46953a6075609a748b756adbf967ecf1
+      internalID: -1649189940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e59ae2763c88743a371a9ca9cb34e0
+      internalID: 276366841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 256
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1079b54fd944640940144f703544ce
+      internalID: -234379286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eddd6e3ebfdf9d458fec160f2d74127
+      internalID: 1858042386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c975a5097c16b654fa50ca0198b19a3b
+      internalID: -1512972919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 256
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb8e855e4b4b8b4f84c9d1426f4566f
+      internalID: 362458140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a9dbbb77f54ad4f9835fd1b4513301
+      internalID: -1387276921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6817b8ad3f391874888683ac9fe57776
+      internalID: 372638116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481cddd1cc0bbc74983641b981b2ab75
+      internalID: -284575803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022a175237c8e24693b7844e70fea33
+      internalID: -1006977987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 256
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d01330779cfa643ae697390d2fe0f1
+      internalID: -583557660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 256
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd70d6dfee7a7aa44b8090055eb33334
+      internalID: 1019606198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 256
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c960e82eafbc8eb418efd91ddd715d75
+      internalID: 446372174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9050cb31cb34b4283246f8a92afc11
+      internalID: -585349675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 224
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f230228314213384ea7ae04feed026a6
+      internalID: -655904406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a782b2e40fb548b45e68d0250028a
+      internalID: 966302453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c067e1731ec6943833be6efd3617ee
+      internalID: 1346200410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf1326711143e24e9352994e23bcef2
+      internalID: 2034346120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 223
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed75cd975391bcc40870cf598f5c42ac
+      internalID: -1548422765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab907596fde8be947af7aabd662d3883
+      internalID: -1623742608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 224
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2646009a408d36c4c964dd2d0e889df1
+      internalID: 846832594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 223
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2267477736507ea4295329496d5f1512
+      internalID: 220990589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_33
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e9eeaae8387034ab3bb2304337ef28
+      internalID: 1276064163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 224
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eeae55a2600e441a5723a38dcf5eec
+      internalID: -131792458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ed1e445137b24987005428655669b
+      internalID: -588306337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6028886d2e934df4db3685172b60d713
+      internalID: -1339215297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 195
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f0b578787ef1b4e926b150b8b22db7
+      internalID: -92692808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 195
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d46538c07d7b740a871fcc9cc4ebdf
+      internalID: 768409505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 195
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b115bf3d71e6d7043b0117f91b5863b3
+      internalID: -916241426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 195
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb463ec925e816469a65786d4deedd5
+      internalID: -1007095536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 195
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f215d3e0d68e704fa145e85440c9bfe
+      internalID: -956970595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 195
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4618514856b03b24eb59c6ecd244d468
+      internalID: 146445834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 195
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7602c5aa48323e4386e3da0137eca49
+      internalID: 812923906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 195
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d454fb8306714d8522101b25ee050
+      internalID: -1754982634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 192
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85671b6d3e874ed42939e1f704d05069
+      internalID: -5950551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_46
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 192
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3b10ac2f84f214fbc3e3688b37e6bc
+      internalID: -500550841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 192
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42650a8f34dfb7439a8287b51ac42fd
+      internalID: -1044426409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385571eef2b3b0646b8c503d832d2eb0
+      internalID: 974031230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 163
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d71972a0a3296641bc8cd00c144f023
+      internalID: 1728303226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 164
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521fefb96b7d204597aec46675a53cb
+      internalID: -1877767236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 163
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc43b366aec4a144a220d642fb07f6f
+      internalID: 1924661591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f0127f030acb24f9b6f203026c508e
+      internalID: -1876597757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_53
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 163
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a5224723075b240b71c8906214ddd5
+      internalID: -1189972434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 163
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb9e7321f682cf44853711f22119214
+      internalID: 1726126104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 164
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6c41b3756d7794aadcab5e2cca9258
+      internalID: 1490497288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 163
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff01de0a8d8f5e84ba6965d593e85e42
+      internalID: 214160525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_57
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 162
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db29a8bff48d2744ca6647330aee68de
+      internalID: -1162380310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_58
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 163
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af5fbc3f648cb4b9c978bcf9422260
+      internalID: -979245723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_59
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 162
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d06d0a71a406b46a62d76520e81a7a
+      internalID: -661976552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5e3dfdfedd71d40808a64f0b8bcedc
+      internalID: 253377106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_61
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 131
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13707f710f673224c9f43f5a9ec25167
+      internalID: 863513432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 132
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac4a64dcbce0fa4bbfe57d2dc767576
+      internalID: -1993394872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 132
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356e369b4fca91b42a76547ed4bdaa8a
+      internalID: -1926348212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 132
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863f8f0470aff6c43bef12c0083a54a1
+      internalID: -2087874576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 132
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448114a8be6ff524989112aac1b4dfc7
+      internalID: 1170246478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 132
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2e5b44bcb64a498d20b159e650c9d
+      internalID: 395678787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_67
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 132
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350fd5c8df20b124da389e73188b54b7
+      internalID: -472995934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 132
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c85041bb14154496ca50c2ee063d7
+      internalID: -193080023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 131
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21959257c3c0274e96e1ae6bde8ee15
+      internalID: -2109656970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_70
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 131
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f7d5c9f9490114f9845cd44c095507
+      internalID: 199585385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_71
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 131
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1a59ad6378b26438bb6aebe6496f97
+      internalID: -1702401182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fb622f43becf44ea7debe9f3053151
+      internalID: -650916688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_73
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 99
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339be91e97fc91349a637b26c162d2d1
+      internalID: -1251667281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_74
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beccc6c4e6b4b6446938108042bbd8b6
+      internalID: 23127035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_75
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 99
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84e9f5c442cf624a98594f0ed736c71
+      internalID: 250430377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_76
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0710c3a6ae60a4441984afa68a0da36a
+      internalID: -1204680945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_77
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 99
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b9a1191d867b246b98ad16e9ad0392
+      internalID: 141080114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_78
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 99
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a8598e281bc94790435c3e149cc54
+      internalID: -2026592542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_79
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 100
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2beaf2c44748824f8d9a834a903acbf
+      internalID: -394836364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2764e8d854ce8014980a010fc17cde3d
+      internalID: -2127549730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_81
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 98
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d665d41b5c7788c4f9ceae5adfe7c233
+      internalID: 923029658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_82
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 99
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79619a0390d6344b55df7a72b172a8
+      internalID: -396752203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 98
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e23422f325bb1f47839441cd3e523d8
+      internalID: -714022667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef26f017998054ab7d5ce232a3b02f
+      internalID: -1973781000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_85
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 67
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a5363f91381b543b6ae00076d51430
+      internalID: -1305371909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 68
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eaaac2ab86d4445a55929931eaddda
+      internalID: 912199879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c758f8cf4fb25bb43b61ea135d4beabf
+      internalID: -1374243398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 68
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96efa9d43395b314d82a9315d39ca98a
+      internalID: -402541446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 68
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0dd80d1c3db35439d3e9553c039eee
+      internalID: 2093842975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 69
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa45b3b28c22d41bd104996a3a0559
+      internalID: -355563554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_91
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 69
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972247e243314c49a57d50b1fe39891
+      internalID: -476966979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_92
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 69
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663273d8378aa64295972d35729419a
+      internalID: -516073471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_93
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 67
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5716da1b4bf4dee4898f13b8e7c29765
+      internalID: 1709059259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_94
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 67
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe14b6bc628a6c49b845e37016dcac5
+      internalID: -745211738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_95
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 67
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668d3fc889e52ee44aeb6ecfadeffe7a
+      internalID: 933184520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_96
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 43
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47678367ad5e224ba429999bba428db
+      internalID: -592794110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_97
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 43
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ed8b59edc7b6489e3f1d41af1d64a
+      internalID: 1989807044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_98
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 43
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6409b8ee8eb2924fa74a623d09e222d
+      internalID: 671833900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_99
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 43
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178daebc76d6c6444972031da9c243c8
+      internalID: -1259288620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ffde13c3bfd7e4f862d174ee126a77
+      internalID: -744985280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_101
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa4fb1c6931375429bcd9b01b336b66
+      internalID: -2005985207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 43
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6f7d1f6672154abbf695d6d2a19c3
+      internalID: 1497331480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_103
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 43
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e4b8ebd85b1d540af1b39b318ab16b
+      internalID: -1816601273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_104
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 43
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0decee571891629448276700e5d60760
+      internalID: 1822256347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_105
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 43
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d905ac850ee66a045a880b4f5cec6380
+      internalID: 557584293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_106
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 43
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac78e991e0b21441a3ea52283d32dce
+      internalID: -289191597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbb51b4863f1d043a552c92ee623968
+      internalID: 1633780132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 26
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c634e3a78420fb94d91a50666513ffad
+      internalID: 730492979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 24
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed4b2707f8cc240925b05c1f0f5ea9
+      internalID: 331665879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_110
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c0239606802914895da697a3d4defc
+      internalID: 874328653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_111
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a08defa8b43ac419cb83fb4be0d663
+      internalID: -199570472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_112
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317c46240478444b998618abf66f1b5
+      internalID: 430818052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_113
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6411022f154cdc0468baab00ff42beae
+      internalID: -1720107986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_114
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b37000731d436439d60f8334c9f44d
+      internalID: -1394359095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_115
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f58177651aacfe4480c97060e3f0979
+      internalID: 2095247740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 24
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4684ae28ee4c248ad1f454be0f930f
+      internalID: 879453251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_117
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 26
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88565fdc19c94214fa50b17ffc1db035
+      internalID: 1799946061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_118
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 26
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93bd109ba9cd6449bf995cb9f6907b0
+      internalID: 239890240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_119
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c864248d3625f714bbf4124c7b222117
+      internalID: 1304281887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_120
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 26
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4981476d8674ae6489b9559f998788c9
+      internalID: 1359533965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_121
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 24
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1569151617f4ec8499e18cfea251bdfc
+      internalID: -1764889973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_122
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 14
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa969ff14119bf46a1841190e88e981
+      internalID: -1664400164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_123
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164f6bb988d24b418a71b46af30b379
+      internalID: 2055407355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_124
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99224309e67d9949a08ca342a22230e
+      internalID: 1226544928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_125
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e064cf1783a764c976151d89d6737a
+      internalID: -1106081181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_126
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66719a04de8ceef408296ce7dace0790
+      internalID: 404854678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_127
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7505fe8e36a08ca47bd8e2a26781f49e
+      internalID: -1226198491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_128
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c504ebb4d3581d243a6cd991d0ce24e4
+      internalID: 433648747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_129
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d47888a5b51f48be7e56fdc0ef4c8
+      internalID: 1291202131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_130
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f474e903e9f2a4da2e56e6deccbe6a
+      internalID: -289080687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_131
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 14
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf07c7dedf803d4695d7d797821ef7d
+      internalID: -1397037135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_132
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 14
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf925f018e678aa4a8193f18c0db42e1
+      internalID: 2114458570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_133
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f10c8054827a3438cad68e74d973e4
+      internalID: 276863711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_134
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bece3b78e69e34788fca2218a22905
+      internalID: 829078539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_135
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259814dad03c2334dbefff8001687ced
+      internalID: 1771331102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_136
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3dd94a5b0db66469d574e094b9d02a
+      internalID: -1504922675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc7adc89c8e73341b3109da3fc8e583
+      internalID: 210255688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_138
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdff34ea03768814a84e0d6e877397fa
+      internalID: 1151850029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_139
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8488bb4540bf043489d981680bcbbc01
+      internalID: -1822561692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_140
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b0be64c73c6f40b3b2ac747f293cf
+      internalID: -1079180785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_141
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b246023c7104d42a9c8d6c2c208275
+      internalID: 1662948808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_142
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efdc3abcf3ca3c489c42f75b15f55f6
+      internalID: -220245060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_143
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e84df2badb42542abe44dbcf687280
+      internalID: 485174910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_144
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b06df109a09bd469974ecbfff8c466
+      internalID: -1350168018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_145
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0702832627083140892d00c155ec112
+      internalID: -2108143306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_146
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7006a305a5ed189448d2d313b2ffa9e5
+      internalID: -10985890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b83d1bf125bf8f48bc7560bba7e0b94
+      internalID: 724205487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_148
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ede5abff8fef14580cbcea33a6ef99
+      internalID: -749944279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_149
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7bdf96cd4864b45a0a09b0545c9a5c
+      internalID: 1371997507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_150
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fe3372f58128468010ad6542fa465
+      internalID: -1527549373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_151
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc2495b072009047a5e1ef887912ff1
+      internalID: -1945447173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_152
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3805bcd54d4f0943824e48d68696dc8
+      internalID: -2040584014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_153
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429477fb1f6f5db43be2112f7b8835ae
+      internalID: -1156043235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_154
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc07432cd5c73ed4c9f744f6f45228c0
+      internalID: -2134584015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_155
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed5fe3dee910cb41bf692775be76d95
+      internalID: 1629877000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_156
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bcfc494016a894f8103f046aeecd1e
+      internalID: 1787137464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_157
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d675df8929a3f4f899ec938082d5f0
+      internalID: -1120492574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_158
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f789ea7fea7867409f2668c890ef569
+      internalID: -1883228438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_159
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82e3665bdcb574c8d5fbc3c1a9f77c
+      internalID: -1106309519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_160
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add5a19ea3723154db17b44ec0e5149b
+      internalID: 2085943741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_161
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca747396f18b2e5438e43f56037e334e
+      internalID: 1339887428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_0: 718143115
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_1: -1262354436
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_10: 1413308132
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_100: -744985280
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_101: -2005985207
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_102: 1497331480
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_103: -1816601273
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_104: 1822256347
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_105: 557584293
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_106: -289191597
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_107: 1633780132
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_108: 730492979
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_109: 331665879
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_11: -1649189940
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_110: 874328653
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_111: -199570472
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_112: 430818052
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_113: -1720107986
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_114: -1394359095
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_115: 2095247740
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_116: 879453251
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_117: 1799946061
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_118: 239890240
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_119: 1304281887
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_12: 276366841
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_120: 1359533965
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_121: -1764889973
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_122: -1664400164
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_123: 2055407355
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_124: 1226544928
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_125: -1106081181
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_126: 404854678
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_127: -1226198491
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_128: 433648747
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_129: 1291202131
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_13: -234379286
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_130: -289080687
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_131: -1397037135
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_132: 2114458570
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_133: 276863711
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_134: 829078539
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_135: 1771331102
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_136: -1504922675
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_137: 210255688
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_138: 1151850029
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_139: -1822561692
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_14: 1858042386
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_140: -1079180785
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_141: 1662948808
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_142: -220245060
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_143: 485174910
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_144: -1350168018
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_145: -2108143306
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_146: -10985890
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_147: 724205487
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_148: -749944279
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_149: 1371997507
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_15: -1512972919
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_150: -1527549373
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_151: -1945447173
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_152: -2040584014
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_153: -1156043235
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_154: -2134584015
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_155: 1629877000
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_156: 1787137464
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_157: -1120492574
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_158: -1883228438
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_159: -1106309519
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_16: 362458140
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_160: 2085943741
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_161: 1339887428
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_17: -1387276921
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_18: 372638116
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_19: -284575803
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_2: -320318179
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_20: -1006977987
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_21: -583557660
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_22: 1019606198
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_23: 446372174
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_24: -585349675
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_25: -655904406
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_26: 966302453
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_27: 1346200410
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_28: 2034346120
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_29: -1548422765
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_3: 1348160412
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_30: -1623742608
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_31: 846832594
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_32: 220990589
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_33: 1276064163
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_34: -131792458
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_35: -588306337
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_36: -1339215297
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_37: -92692808
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_38: 768409505
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_39: -916241426
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_4: -1557401995
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_40: -1007095536
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_41: -956970595
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_42: 146445834
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_43: 812923906
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_44: -1754982634
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_45: -5950551
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_46: -500550841
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_47: -1044426409
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_48: 974031230
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_49: 1728303226
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_5: -1173593568
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_50: -1877767236
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_51: 1924661591
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_52: -1876597757
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_53: -1189972434
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_54: 1726126104
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_55: 1490497288
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_56: 214160525
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_57: -1162380310
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_58: -979245723
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_59: -661976552
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_6: -262800489
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_60: 253377106
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_61: 863513432
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_62: -1993394872
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_63: -1926348212
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_64: -2087874576
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_65: 1170246478
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_66: 395678787
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_67: -472995934
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_68: -193080023
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_69: -2109656970
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_7: -916173487
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_70: 199585385
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_71: -1702401182
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_72: -650916688
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_73: -1251667281
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_74: 23127035
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_75: 250430377
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_76: -1204680945
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_77: 141080114
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_78: -2026592542
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_79: -394836364
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_8: -1009983359
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_80: -2127549730
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_81: 923029658
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_82: -396752203
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_83: -714022667
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_84: -1973781000
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_85: -1305371909
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_86: 912199879
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_87: -1374243398
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_88: -402541446
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_89: 2093842975
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_9: -120527998
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_90: -355563554
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_91: -476966979
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_92: -516073471
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_93: 1709059259
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_94: -745211738
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_95: 933184520
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_96: -592794110
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_97: 1989807044
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_98: 671833900
+      Sprites- Final Fantasy 4 v2 by UltimeciaFFB on DeviantArt_99: -1259288620
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
