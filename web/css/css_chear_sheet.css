@@ -1,26 +1,249 @@
-/* Selectores */
-
 h1 {
-    /* Atributos */
-    color: rgb(171, 48, 48, 0.769);
+    text-align: center;
+    color: black;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    /* Valores */
 }
-
-h2 {
-    color: #065165;
+h3{
+    text-indent: 10px;
 }
-
-#Second_h1 {
-    color: #262466;
-}
-
-.container {
-    border: 3px black solid;
-    margin: 3px;
-    padding: 2px;
-}
-
 body {
-    margin: 0;
+    margin: 10px;
+}
+.BORDER{
+    background-color: aquamarine;
+}
+.border_1{
+    margin: 20px;
+    padding: 0.5cm;
+    border: 3px black solid;
+    text-align: center;
+}
+.border_2{
+    margin: 20px;
+    padding: 0.5cm;
+    border: 5px firebrick dotted;
+    text-align: center;
+}
+.border_3{
+    margin: 20px;
+    padding: 0.5cm;
+    border: 3px cornflowerblue dashed;
+    text-align: center;
+}
+
+.BORDER_DIRECTION{
+    background-color: khaki;
+}
+.BorDir_L{
+    margin: 20px;
+    text-align: left;
+    border-left:5cm green groove;
+}
+.BorDir_R{
+    margin: 20px;
+    text-align:right;
+    border-right: 5cm green solid;
+}
+.BorDir_T{
+    margin: 20px;
+    text-align: center;
+    border-top: 3px green dotted;
+}
+.BorDir_B{
+    margin: 20px;
+    text-align: center;
+    border-bottom: 3px green dashed;
+}
+.BorDir_None{
+    margin: 20px;
+    text-align: center;
+    border: 25px green groove;
+    border-top: none;
+}
+
+.BORDER_RADIOUS{
+    background-color: lightcoral;
+    margin-bottom: 10px;
+}
+.rad_1{
+    margin: 20px;
+    padding: 9px;
+    border: 3px black solid;
+    border-radius: 50%;
+    text-align: center;
+}
+.rad_2{
+    margin: 20px;
+    padding: 9px;
+    border: 3px black solid;
+    border-radius: 40px;
+    text-align: center;
+}
+.rad_3{
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 9px;
+    border: 3px black solid;
+    border-radius: 10%;
+    text-align: center;
+    border-right: none;
+    border-left: none;
+}
+
+.BACK_IMG{
+    background-color: lightblue;
+}
+#back_img{
+    margin-left: 5vw;
+    margin-right: 5vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 10px;
+    height:80vh;
+}
+
+.img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#img_1{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/7/7f/Suzume_no_Tojimari_poster.jpg);
+}
+#img_2{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/c/c3/Garden_of_Words_poster.png);
+}
+#img_3{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png);
+}
+#img_1_title{
+    align-items: center;
+}
+
+.olv{
+    background-color: floralwhite;
+}
+
+.COLOR{
+    background-color: rgba(188, 143, 143, 0.511);
+}
+#color_1{
+    color: chartreuse;
+}
+#color_2{
+    color: tomato;
+}
+#color_3{
+    color: cyan;
+}
+.FONT{
+    background-color: blanchedalmond;
+}
+
+#font_1{
+    font: bold 32px Arial, sans-serif;
+}
+#font_2{
+    font: italic 20px Times;
+}
+#font_3{
+    font: 14px comic;
+}
+.FONT_FAM{
+    background-color: aquamarine;
+}
+#FFam_1{
+    font-family: 'Open Sans', sans-serif;
+}
+#FFam_2{
+    font-family: 'Segoe UI', sans-serif;
+
+}
+#FFam_3{
+    font-family: 'Roboto', sans-serif;
+}
+.FONT_styleNweight{
+    background-color: lavenderblush;
+}
+#stNwe_1{
+    font-style: italic;
+    font-weight: 100;
+}
+#stNwe_2{
+    font-style: bold;
+    font-weight: 500;
+}
+#stNwe_3{
+    font-style: oblique;
+    font-weight: 900;
+}
+.WITHnHEIGHT{
+    background-color: rgba(255, 20, 145, 0.514);
+}
+#WnH_1{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://imgs.search.brave.com/UnqqpYV8Yb9J0-62Y2h5p_PNt77NRgoWWEQ5jIXguhM/rs:fit:1198:600:1/g:ce/aHR0cHM6Ly93ZXRo/ZXB2YmxpYy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDIvcmlja3JvbGwu/anBn);
+    width: 40vh;
+    height: 60vh;
+    margin-left: 40%;
+}
+
+#WnH_2{
+    margin-left: 50%;
+    text-align: center;
+    width: 15vh;
+    height: 10vh;
+    border: 1px black solid;
+}
+.STYLE{
+    background-color: mediumturquoise;
+}
+#LiStyle_1{
+    list-style: none;
+}
+#LiStyle_2{
+    list-style: square;
+}
+.MARGIN{
+    background-color: orange;
+}
+#margin_1{
+    margin: 20px;
+    border: 1px black solid;
+    text-align: center;
+}
+#margin_2{
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 60px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    border: 1px black solid;
+}
+
+.PADDING{
+    background-color: rgba(0, 0, 128, 0.406);
+}
+#pad_1{
+    text-align: center;
+    padding: 50px;
+    border: 3px black solid;
+}
+#pad_2{
+    text-align: center;
+    padding: 10vh;
+    border: 3px black solid;
+}
+#pad_3{
+    text-align: center;
+    padding: 20%;
+    border: 3px black solid;
+}
+
+.OVERFLOW{
+
 }

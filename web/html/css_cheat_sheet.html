@@ -1,16 +1,222 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <!-- <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
 
     <link rel="stylesheet" href="../css/css_chear_sheet.css">
 
-    <title>Document</title>
-    
+    <title>CSS Cheat Sheet</title>   
 </head>
-<body>
+<body class="olv">
+    <h1><u>CSS Cheat Sheet</u></h1>
+    <div class="BORDER">
+        <h3>Border</h3>
+        <strong>Boreder</strong> is used to create a border of an element. You oculd use different types like solid or dashed, as well as different colors and with a thikness of choice.<br><br>
+        Here are some examples:
+        <div class="border_1">
+            Solid, Black, and 3 pixels of thickness
+        </div>
+        <div class="border_2">
+            Dotted, Firebrick, and 5 pixels of thickness
+        </div>
+        <div class="border_3">
+            Dashed, Cornflowerblue, and 3 pixels of thickness
+        </div>
+    </div>
+
+    <div class="BORDER_DIRECTION">
+        <h3>Border-left, border-right, border-top, border-bottom</h3>
+        All of the border directions let you create shapes with only specified parts of the border.<br><br>
+        Here are some examples:
+        <div class="BorDir_T">
+            This is border-top
+        </div>
+        <div class="BorDir_L">
+            This is border-left
+        </div>
+        <div class="BorDir_R">
+            This is border-right
+        </div>
+        <div class="BorDir_B">
+            This is border-bottom
+        </div>
+        <p>
+            This could also be used with <strong>none</strong> to create shapes like this one:
+        </p>
+        <div class="BorDir_None">
+            This is border, with border-top:none
+        </div>
+    </div>
+    
+    <div class="BORDER_RADIOUS">
+        <h3>Border-radius</h3>
+        This is used to modify the corners of the border, to shape it with rounded corners.<br><br>
+        Here are some examples:
+        <div class="rad_1">
+            This is an example with 50% border-radius
+        </div>
+        <div class="rad_2">
+            This is an example with 40px border-radius
+        </div>
+        <div class="rad_3">
+            This is an example with 20% border-radius, no border sides
+        </div>
+    </div>
+    
+    <div class="BACK_IMG">
+        <h3>Background-image</h3>
+        This element displays an image in the background within an element. 
+        <br><br>
+        This are some examples:
+        
+        <div id="back_img">
+            <div id="img_1" class="img">
+            </div>
+            <div id="img_2" class="img">
+            </div>
+            <div id="img_3" class="img">
+            </div>
+            <div>
+                Suzume's Locking Up
+            </div>
+            <div>
+                Garden of Words
+            </div>
+            <div>
+                Your Name
+            </div>      
+        </div> 
+    </div>
+    
+    <div class="COLOR">
+        <h3>Color</h3>
+        Color serves the purpose to give color to text elements.<br><br>
+        This are some examples:
+        <p id="color_1">
+            This text has color chartreuse.
+        </p>
+        <p id="color_2">
+            This text has color tomato.
+        </p>
+        <p id="color_3">
+            This text has color cyan.
+        </p>
+    </div>
+    
+    <div class="FONT">
+        <h3>Font</h3>
+        This property is used to set various font properties for text content, such as the font family, font size, font weight, line height, and more. <br><br>
+        This are some examples:
+        <p id="font_1">
+            This is arial and sans-serif, bold, with size of 32 pixels.
+        </p>
+        <p id="font_2">
+            This is times, italic, with size of 20 pixels.
+        </p>
+        <p id="font_3">
+            This is comic, normal, with size of 14 pixels.
+        </p>
+    </div>
+    
+    <div class="FONT_FAM">
+        <h3>Font-family</h3>
+        This property that sets the preferred font family for text. Font family refers to the typeface or design of a particular set of characters, including letters, numbers, and punctuation. <br><br>
+        This are some examples:
+        <p id="FFam_1">
+            This is Open Sans
+        </p>
+        <p id="FFam_2">
+            This is Segoe UI
+        </p>
+        <p id="FFam_3">
+            This is Roboto
+        </p>
+    </div>
+    
+    <div class="FONT_styleNweight">
+        <h3>Font-style and font-weight</h3>
+        <strong>Font-style</strong> sets the style of the font, such as italic, oblique, or normal. <br>
+        <strong>Font-weight</strong> sets the weight, or thickness, of the font. It can be used to make the text bolder or lighter. <br>
+        This are some examples:
+        <p id="stNwe_1">
+            This has style: italic with a weight: 100.
+        </p>
+        
+        <p id="stNwe_2">
+            This has style: bold with a weight: 500.
+        </p>
+        
+        <p id="stNwe_3">
+            This has style: oblique with a weight: 900.
+        </p>
+    </div>
+
+    <div class="WITHnHEIGHT">
+        <h3>Width and height</h3>
+        These are properties used to set the dimensions of an element. <br><br>
+        These are some examples:
+        <p id="WnH_1"> 
+            Example #1
+        </p>
+        <p id="WnH_2"> 
+            Example with small box
+        </p>
+
+    </div>
+
+    <div class="STYLE">
+        <h3>List-style</h3>
+        This property in CSS is used to set the appearance of the list items. It is used to change the style, position, and marker of the list items.
+        <br><br>
+        These are some examples: <br>
+        List:
+        <ul id="LiStyle_1">
+            <li>Esta</li>
+            <li>Lista</li>
+            <li>No tiene</li>
+            <li>Bullets</li>
+        </ul id="LiStyle_2">
+        List:
+        <ul id="LiStyle_2">
+            <li>Esta lista</li>
+            <li>tiene bullets</li>
+            <li>cuadrados</li>
+        </ul>
+    </div>
+    <div class="MARGIN">
+    <h3>Margin</h3>
+    This property is used to set the spacing between an HTML element and its neighboring elements. It determines the amount of space that is added to an element's border or content, on each of its sides. <br><br>
+    These are some examples:
+        <p id="margin_1">
+            This has margin of 20px.
+        </p>
+        <p id="margin_2">
+            This has margin of 30, 60, 50 and 10px.
+        </p>
+    </div>
+
+    <div class="PADDING">
+        <h3>Padding</h3>
+        This property specifies the space between an element's content and its border. It defines the amount of space inside the element's borders, and can be applied to any element. <br><br>
+        These are some examples:
+        <p id="pad_1">
+            This has a padding of 50px.
+        </p>
+        <p id="pad_2">
+            This has a padding of 10vh.
+        </p>
+        <p id="pad_3">
+            This has a padding of 30%.
+        </p>
+    </div>
+
+    <div class="OVERFLOW">
+
+    </div>
+
+    <br><br><br><br>
     
 </body>
 </html>
