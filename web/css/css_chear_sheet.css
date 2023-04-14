@@ -245,5 +245,23 @@ body {
 }
 
 .OVERFLOW{
-
+    background-color: lawngreen;
 }
+#overf{
+    overflow: scroll;
+    height: 100px;
+    width: 200px;
+    margin-left: 150px;
+    background-color: aliceblue;
+}
+
+.DISPLAY{
+    background-color: silver;
+}
+#disp_1{
+    display: none;
+}
+#disp_2{
+    display: block;
+}
+
