@@ -219,7 +219,7 @@ body {
 #margin_2{
     text-align: center;
     margin-top: 30px;
-    margin-right: 60px;
+    margin-right: 300px;
     margin-bottom: 50px;
     margin-left: 10px;
     border: 1px black solid;
@@ -263,5 +263,30 @@ body {
 }
 #disp_2{
     display: block;
+}
+
+.POSITION{
+    background-color: rgba(128, 128, 0, 0.521);
+}
+
+#pos_1{
+    position: relative;
+    top: 40px; 
+    left: 30px;
+    right: 10px;
+    border: 1px black solid;
+}
+
+.FILTER{
+    background-color:salmon;
+}
+
+#filter_1{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://imgs.search.brave.com/UnqqpYV8Yb9J0-62Y2h5p_PNt77NRgoWWEQ5jIXguhM/rs:fit:1198:600:1/g:ce/aHR0cHM6Ly93ZXRo/ZXB2YmxpYy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDIvcmlja3JvbGwu/anBn);
+    height: 50vh;
+    filter: grayscale();
 }
 
