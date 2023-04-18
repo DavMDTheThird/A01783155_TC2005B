@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2px;
+}
+body{
+    background-color: rgb(44, 48, 67);
+}
+h1{
+    color:blanchedalmond;
+}
+.titulo{
+    text-align: center;
+}
+.grid-box{
+    border: 3px black solid;
+    margin: 3px;
+}
+.grid-layout1{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 150px 150px;
+    grid-template-areas: "box-1 box-2 box-3" 
+                        "box-4 box-5 box-6";
+}
+/* Segundo layout de la tarea */
+.grid-layout2{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 20vh 30vh 30vh;
+    grid-template-areas: "box-2 box-2 box-2" 
+                        "box-4 box-5 box-5"
+                        "box-4 box-1 box-3" ;
+}
+.box-1{
+    grid-area: box-1;
+    background-color: rgb(252, 96, 87);
+}
+.box-2{
+    grid-area: box-2;
+    background-color: rgb(253, 130, 92);
+}
+.box-3{
+    grid-area: box-3;
+    background-color: rgb(253, 160, 97);
+}
+.box-4{
+    grid-area: box-4;
+    background-color: rgb(1, 167, 135);
+}
+.box-5{
+    grid-area: box-5;
+    background-color: rgb(27, 193, 161);
+}
+.box-6{
+    grid-area: box-6;
+    background-color: rgb(52, 218, 186);
+}
+/* Tercer layout de la tarea */
+.grid-layout3{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 30vh 40vh 10vh;
+    /* grid-template-areas: "box-2 box-1" "box-4 box-5"; */
+}
+.box-1_{
+    grid-area: 1/4/1/7;
+    background-color: rgb(252, 96, 87);
+}
+.box-2_{
+    grid-area: 1/1/1/4;
+    background-color: rgb(253, 130, 92);
+}
+.box-3_{
+    grid-area: 3/1/7/7;
+    background-color: rgb(253, 160, 97);
+}
+.box-4_{
+    grid-area: 2/1/2/3;
+    background-color: rgb(1, 167, 135);
+}
+.box-6_{
+    grid-area: 3/3/2/7;
+    background-color: rgb(52, 218, 186);
+}
+
+.grid-layout4{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 10vw 40vw;
+    grid-template-areas: "Ej4-box-3 Ej4-box-6" 
+                        "Ej4-box-1 Ej4-box-4";
+}
+.Ej4-box-1{
+    grid-area: Ej4-box-1;
+    background-color: rgb(252, 96, 87);
+}
+.Ej4-box-3{
+    grid-area: Ej4-box-3;
+    background-color: rgb(253, 160, 97);
+}
+.Ej4-box-4{
+    grid-area: Ej4-box-4;
+    background-color: rgb(1, 167, 135);
+}
+.Ej4-box-6{
+    grid-area: Ej4-box-6;
+    background-color: rgb(52, 218, 186);
+}
+.subgrid-layout{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 16vw 16vw;
+    grid-template-areas: "Ej4-subbox-6 Ej4-subbox-6"
+                        "Ej4-subbox-4 Ej4-subbox-2";
+}
+.Ej4-subbox-2{
+    grid-area: Ej4-subbox-2;
+    background-color: rgb(253, 130, 92);
+}
+.Ej4-subbox-4{
+    grid-area: Ej4-subbox-4;
+    background-color: rgb(1, 167, 135);
+}
+.Ej4-subbox-6{
+    grid-area: Ej4-subbox-6;
+    background-color: rgb(52, 218, 186);
+}
