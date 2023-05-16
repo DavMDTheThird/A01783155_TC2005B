@@ -1,0 +1,22 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: rgb(40, 40, 40);
+}
+
+.container{
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+table, td{
+    border: 1px solid black;
+}
+
+code{
+    color: rgb(0, 255, 102);
+}
+
+#question{
+    background-color: black;
+}
