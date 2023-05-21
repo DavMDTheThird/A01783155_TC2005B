@@ -1,0 +1,17 @@
+{
+  "name": "node_app_1",
+  "version": "1.0.0",
+  "description": "",
+  "_comentario_del_type_": "Esto lo agregue para que utiliza el estandard correcto",
+  "type":"module", 
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
